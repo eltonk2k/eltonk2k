@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elielton Silva</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonk2k&label=Perfil%20views&color=171616&style=flat" alt="eltonk2k" /> </p>
+
 
 - 🌱 Student **Sistemas de Informação**
 
@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eltonk2k&show_icons=true&theme=dark&title_color=f5e507&text_color=ffffff&bg_color=0d0d0d" alt="eltonk2k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eltonk2k&theme=dark" alt="eltonk2k" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonk2k&label=Perfil%20views&color=171616&style=flat" alt="eltonk2k" /> </p>
