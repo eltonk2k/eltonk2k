@@ -26,4 +26,4 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eltonk2k&theme=dark" alt="eltonk2k" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eltonk2k&label=Perfil%20views&color=171616&style=flat" alt="eltonk2k" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=eltonk2k&label=Perfil%20views&color=171616&style=flat" alt="eltonk2k" /> </p>
