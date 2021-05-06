@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonk2k&label=Perfil%20views&color=171616&style=flat" alt="eltonk2k" /> </p>
 
-- 🌱 Estudante de **Sistemas de Informação**
+- 🌱 Student **Sistemas de Informação**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eltonk2k](https://github.com/eltonk2k)
 
