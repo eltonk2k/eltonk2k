@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elielton Silva</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">Backend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonk2k&label=Perfil%20views&color=171616&style=flat" alt="eltonk2k" /> </p>
 
