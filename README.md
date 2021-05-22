@@ -9,8 +9,8 @@
 
 <h3 align="center">Contact:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/elielton-silva2019/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620272092~hmac=9603cfd6a52fb4a5eb21af1b7881be88" alt="https://www.linkedin.com/in/elielton-silva2019/" height="50" width="50" /></a>
-<a href="https://discord.gg/BlackFyree#9687" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1620272280~hmac=d5fc3de6f1f80c4b876623760b7bd8b1" alt="BlackFyree#9687" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/elielton-silva2019/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/elielton-silva2019/" height="50" width="50" /></a>
+<a href="https://discord.gg/BlackFyree#9687" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="BlackFyree#9687" height="50" width="50" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
