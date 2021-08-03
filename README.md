@@ -33,10 +33,10 @@
     <a href="https://github.com/eltonk2k">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltonk2k&show_icons=true&theme=dark&title_color=f5e507&text_color=ffffff&bg_color=0d0d0d"/> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltonk2k&show_icons=true&theme=dark&title_color=f2e507&text_color=fafafa&bg_color=0d0d0d&hide_border=true&locale=en&layout=compact"/>
-  </div>
-    
-<div>
+ </div>
+
+  <div>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eltonk2k&theme=dark" alt="eltonk2k" />
-</div>
+  </div>
 
 
